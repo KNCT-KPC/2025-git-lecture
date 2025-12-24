@@ -2,6 +2,9 @@
 ## Arumino
 - name: Arumino
 - like: yamaokaya
+## Haru0707
+- name: Haru0707
+- like: YoshinoyaS
 
 ## Amemiya
 Amature PG / web developer
