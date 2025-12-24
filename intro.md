@@ -1,8 +1,10 @@
 # 自己紹介
-## Arumino
-- name: Arumino
-- like: yamaokaya
+## nekolnu
+- name: nekolnu
+- like: yakitori
 
+## nekolnu
+ / creator
 ## lencon
 - name: lencon
 - like: game
@@ -23,8 +25,8 @@ Amateur PG / web developer
 <br clear="both" />
 <div align="center">
   <br>
-  <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="48" height="48"></a>
   <p>One moment please...</p>
+  <br>
   <br>
   <br>
 </a>
