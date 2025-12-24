@@ -6,8 +6,8 @@
 - like: yamaokaya
 
 ## yoshiki
-- name:yoshiki
-- like:banana
+- name: yoshiki
+- like: banana
 # Kanamaru Takuma
 - name: Kanamaru Takuma
 - like: omuraisu
