@@ -14,6 +14,9 @@
 ## Haru0707
 - name: Haru0707
 - like: YoshinoyaS
+## uu
+- name: uu
+- like: HomeDC!!!!
 
 ## Amemiya
 Amateur PG / web developer
@@ -34,6 +37,3 @@ Amateur PG / web developer
   <br>
 </a>
 
-## uu
-- name: uu
-- like: HomeDC!!!!
