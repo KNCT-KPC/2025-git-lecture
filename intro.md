@@ -2,3 +2,7 @@
 ## Arumino
 - name: Arumino
 - like: yamaokaya
+
+## yoshiki
+- name:yoshiki
+- like:banana
