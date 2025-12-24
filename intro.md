@@ -2,3 +2,6 @@
 ## Arumino
 - name: Arumino
 - like: yamaokaya
+
+- name: Kanamaru Takuma
+- like: omuraisu
