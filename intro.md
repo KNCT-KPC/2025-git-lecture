@@ -5,6 +5,9 @@
 - name: Arumino
 - like: yamaokaya
 
+## S:5ugar
+- name: S:5ugar
+- like: music
 ## yoshiki
 - name: yoshiki
 - like: banana
