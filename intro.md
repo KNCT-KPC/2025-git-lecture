@@ -3,6 +3,9 @@
 - name: Arumino
 - like: yamaokaya
 
+## Taro
+- name: Nantoka taro
+- like: human
 ## lencon
 - name: lencon
 - like: game
