@@ -5,6 +5,7 @@
 - name: Arumino
 - like: yamaokaya
 
+# Kanamaru Takuma
 - name: Kanamaru Takuma
 - like: omuraisu
 ## izyiRX
